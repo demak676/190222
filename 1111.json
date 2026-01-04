@@ -1,1 +1,15 @@
-
+{
+	"channels": [
+		{
+			"name": "HRT1",
+			"url": "http://23.88.66.93/HRT_1/index.m3u8",
+			"genre": "News",
+			"language": "YU",
+			"favorite": false,
+			"logo": "https://i.imgur.com/lDSctzX.png"
+		},
+	
+		}
+	],
+	"version": 2
+}
